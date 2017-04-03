@@ -88,3 +88,4 @@ ENV/
 # Rope project settings
 .ropeproject
 checkpoints/
+*Sentiment RNN Solution.ipynb*
